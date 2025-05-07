@@ -1,1 +1,1 @@
-Teste  
+Projeto básico de criar uma lista de tarefas e ir adicionando uma a uma com Javascript
